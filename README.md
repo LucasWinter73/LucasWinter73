@@ -1,9 +1,9 @@
 # Good Day, I'm Lucas Winter
 
 🎓 Physics student at ETH Zürich  
-✈️ Aviation & flight sim developer 
-🏢 CEO / Founder of [Skyward Simulations](https://www.skywardsimulations.uk)
-💻 Coding tools and sites like [DR1050 M2 TO perf calculator](https://HB-SEW.uk)
+✈️ Aviation & flight sim developer  
+🏢 CEO / Founder of [Skyward Simulations](https://www.skywardsimulations.uk)  
+💻 Coding tools and sites like [DR1050 M2 TO perf calculator](https://HB-SEW.uk)  
 
 ## 🛠️ Tech Stack
 - HTML / CSS / JavaScript
