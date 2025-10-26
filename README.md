@@ -9,7 +9,8 @@
 ## 🛠️ Tech Stack
 - HTML / CSS / JavaScript
 - Python, C, C++
-- GitHub Actions, JSON, XML, MSFS SDK
+- GitHub Actions, Discord Bots, JSON, XML, MSFS SDK
+- ChatGPT API, DeepSeek API, Simbrief API, Navigraph API, OpenADSB API
 - Blender, Fusion360
 
 ## 🚀 Projects
