@@ -4,7 +4,7 @@
 ✈️ Aviation & flight sim developer  
 🏢 CEO / Founder @ [Skyward Simulations](https://www.skywardsimulations.uk)  
 💻 Coding tools and sites like [DR1050 M2 TO perf calculator](https://HB-SEW.uk)  
-👨‍✈️ Pilot @ [Stoffel Aviation](https://www.stoffelaviation.ch)  
+✈️ Pilot @ [Stoffel Aviation](https://www.stoffelaviation.ch)  
 
 ## 🛠️ Tech Stack
 - HTML / CSS / JavaScript
