@@ -9,6 +9,7 @@
 - HTML / CSS / JavaScript
 - Python, C, C++
 - GitHub Actions, JSON, XML, MSFS SDK
+- Blender, Fusion360
 
 ## 🚀 Projects
 - **Dimond DA50rg** — Single engine piston aircraft for MSFS 2020/2024
