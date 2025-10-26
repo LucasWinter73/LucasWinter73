@@ -1,4 +1,4 @@
-# Good Day, I'm Lucas Winter
+# Good Day, I'm Lucas Winter 🇬🇧 🇨🇭 🇩🇪
 
 🎓 Physics student at ETH Zürich  
 ✈️ Aviation & flight sim developer  
