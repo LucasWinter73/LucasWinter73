@@ -21,7 +21,7 @@
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/lucas-alex-winter)
 - [Website](https://lucas-winter.com)
-- [Email](mailto:lucas.winter@skywardsimulations.uk)
+- [Lucas.Winter@skywardsimulations.uk](mailto:lucas.winter@skywardsimulations.uk)
 
 
 ![Very Nice!](https://media1.tenor.com/m/f2gQait5AgUAAAAC/borat-sacha-baron-cohen.gif)
