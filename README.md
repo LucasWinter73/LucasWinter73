@@ -22,4 +22,5 @@
 - [Website](https://lucas-winter.com)
 - [Email](mailto:lucas.winter@skywardsimulations.uk)
 
-![Alt Very Nice!](https://tenor.com/view/borat-borat-very-nice-verynice-thumbs-up-gif-17258096266802987535)
+
+![Very Nice!](https://media.tenor.com/abc123/borat-very-nice.gif)
