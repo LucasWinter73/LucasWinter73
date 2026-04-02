@@ -16,12 +16,10 @@
 ## 🚀 Projects
 - **Diamond DA50rg** — Single engine piston aircraft for MSFS 2020/2024
 - **Citation C680 Sovereign+** — Private Jet for MSFS 2020/2024
-- **[Polycalcs.org](https://Polycalcs.org)** — Takeoff performace Caluclator for DR1050 Jodel aircraft
 - **[DR1050 M2 TO perf calculator](https://HB-SEW.uk)** — Website to create polynoms that go through a set of points
 
 ## 📫 Contact
 - [LinkedIn](https://www.linkedin.com/in/lucas-alex-winter)
-- [Website](https://lucas-winter.com)
 - [Lucas.Winter@skywardsimulations.uk](mailto:lucas.winter@skywardsimulations.uk)
 
 
